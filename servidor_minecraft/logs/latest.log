@@ -157,3 +157,23 @@
 [20:15:56] [User Authenticator #2/INFO]: UUID of player Thiagojuegosn is 01c68f46-ef12-30ff-ab74-a360240819b5
 [20:15:57] [Server thread/INFO]: Thiagojuegosn joined the game
 [20:15:57] [Server thread/INFO]: Thiagojuegosn[/172.29.32.46:52140] logged in with entity id 4630 at ([world]278.72997566457695, 45.0, -79.69999998807907)
+[20:20:00] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode spectator
+[20:20:00] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Spectator Mode]
+[20:20:06] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:20:06] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:20:16] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode spectator
+[20:20:16] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Spectator Mode]
+[20:20:24] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:20:24] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:21:13] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode creative
+[20:21:13] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Creative Mode]
+[20:22:02] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:22:02] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:22:23] [Server thread/INFO]: Thiagojuegosn was slain by Spider
+[20:24:41] [Server thread/INFO]: Thiagojuegosn was shot by Skeleton
+[20:24:51] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode spectator
+[20:24:51] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Spectator Mode]
+[20:24:59] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:24:59] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:25:27] [Server thread/INFO]: Thiagojuegosn issued server command: /summon minecraft:skeleton
+[20:25:27] [Server thread/INFO]: [Thiagojuegosn: Summoned new Skeleton]
