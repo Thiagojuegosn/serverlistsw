@@ -59,3 +59,39 @@
 [19:49:40] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
 [19:53:49] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode creative
 [19:53:49] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Creative Mode]
+[19:59:52] [Server thread/INFO]: Thiagojuegosn has made the advancement [Monster Hunter]
+[20:00:33] [Server thread/INFO]: Thiagojuegosn issued server command: /effect clear Thiagojuegosn
+[20:00:33] [Server thread/INFO]: [Thiagojuegosn: Removed every effect from Thiagojuegosn]
+[20:02:13] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:02:13] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:02:20] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode creative
+[20:02:20] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Creative Mode]
+[20:02:44] [Server thread/INFO]: Thiagojuegosn issued server command: /effect give Thiagojuegosn minecraft:hunger 9 5 true
+[20:02:44] [Server thread/INFO]: [Thiagojuegosn: Applied effect Hunger to Thiagojuegosn]
+[20:02:45] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:02:45] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:02:51] [Server thread/INFO]: Thiagojuegosn issued server command: /effect give Thiagojuegosn minecraft:hunger 9 10 true
+[20:02:51] [Server thread/INFO]: [Thiagojuegosn: Applied effect Hunger to Thiagojuegosn]
+[20:03:13] [Server thread/INFO]: Thiagojuegosn was slain by Zombie
+[20:03:14] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode spectator
+[20:03:14] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Spectator Mode]
+[20:03:54] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode creative
+[20:03:54] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Creative Mode]
+[20:04:10] [Server thread/INFO]: Thiagojuegosn issued server command: /effect give Thiagojuegosn minecraft:hunger 9 100 true
+[20:04:10] [Server thread/INFO]: [Thiagojuegosn: Applied effect Hunger to Thiagojuegosn]
+[20:04:11] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:04:11] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:04:13] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode creative
+[20:04:13] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Creative Mode]
+[20:04:29] [Server thread/INFO]: Thiagojuegosn issued server command: /effect give Thiagojuegosn minecraft:hunger 7 250 true
+[20:04:29] [Server thread/INFO]: [Thiagojuegosn: Applied effect Hunger to Thiagojuegosn]
+[20:04:30] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:04:30] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:04:33] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode creative
+[20:04:33] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Creative Mode]
+[20:05:57] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:05:57] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:06:11] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode creative
+[20:06:11] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Creative Mode]
+[20:06:24] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:06:24] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
