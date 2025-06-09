@@ -177,3 +177,17 @@
 [20:24:59] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
 [20:25:27] [Server thread/INFO]: Thiagojuegosn issued server command: /summon minecraft:skeleton
 [20:25:27] [Server thread/INFO]: [Thiagojuegosn: Summoned new Skeleton]
+[20:26:55] [Server thread/INFO]: Thiagojuegosn has made the advancement [Take Aim]
+[20:28:20] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode creative
+[20:28:20] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Creative Mode]
+[20:29:01] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:29:01] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:29:37] [Server thread/INFO]: Thiagojuegosn has made the advancement [Best Friends Forever]
+[20:34:35] [Server thread/INFO]: Villager Villager['Farmer'/5718, uuid='fb1cd134-f0c5-4a95-8a6f-e8163e546e19', l='ServerLevel[world]', x=295.99, y=71.00, z=167.27, cpos=[18, 10], tl=7811, v=true] died, message: 'Farmer was slain by Wolf'
+[20:35:00] [Server thread/INFO]: Villager Villager['Farmer'/5741, uuid='b696e794-3627-4070-92f0-33938e4cae74', l='ServerLevel[world]', x=307.09, y=68.00, z=151.27, cpos=[19, 9], tl=4440, v=true] died, message: 'Farmer was slain by Wolf'
+[20:35:11] [Server thread/INFO]: Villager Villager['Villager'/5758, uuid='7827af8a-baf6-4a2a-93b0-37cea399fd52', l='ServerLevel[world]', x=296.92, y=47.23, z=197.84, cpos=[18, 12], tl=7056, v=true] died, message: 'Villager was slain by Zombie'
+[20:35:44] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode creative
+[20:35:44] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Creative Mode]
+[20:35:58] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:35:58] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:36:04] [Server thread/INFO]: Thiagojuegosn has made the advancement [Acquire Hardware]
