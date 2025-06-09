@@ -95,3 +95,65 @@
 [20:06:11] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Creative Mode]
 [20:06:24] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
 [20:06:24] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:06:32] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode creative
+[20:06:32] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Creative Mode]
+[20:06:37] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:06:37] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:06:56] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode creative
+[20:06:56] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Creative Mode]
+[20:07:06] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:07:06] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:07:09] [Server thread/INFO]: Thiagojuegosn issued server command: /effect give Thiagojuegosn minecraft:nausea infinite 250 true
+[20:07:09] [Server thread/INFO]: [Thiagojuegosn: Applied effect Nausea to Thiagojuegosn]
+[20:07:46] [Server thread/INFO]: Thiagojuegosn issued server command: /effect give Thiagojuegosn minecraft:darkness infinite 250 true
+[20:07:46] [Server thread/INFO]: [Thiagojuegosn: Applied effect Darkness to Thiagojuegosn]
+[20:08:02] [Server thread/INFO]: Thiagojuegosn issued server command: /give Thiagojuegosn minecraft:red_bed
+[20:08:02] [Server thread/INFO]: [Thiagojuegosn: Gave 1 [Red Bed] to Thiagojuegosn]
+[20:08:20] [Server thread/INFO]: Thiagojuegosn issued server command: /time set night
+[20:08:20] [Server thread/INFO]: [Thiagojuegosn: Set the time to 13000]
+[20:08:22] [Server thread/INFO]: Thiagojuegosn has made the advancement [Sweet Dreams]
+[20:08:42] [Server thread/INFO]: Thiagojuegosn issued server command: /effect clear Thiagojuegosn
+[20:08:42] [Server thread/INFO]: [Thiagojuegosn: Removed every effect from Thiagojuegosn]
+[20:10:07] [Server thread/INFO]: Thiagojuegosn issued server command: /gamerule keepInventory true
+[20:10:07] [Server thread/INFO]: [Thiagojuegosn: Gamerule keepInventory is now set to: true]
+[20:10:14] [Server thread/INFO]: Thiagojuegosn issued server command: /gamerule sendCommandFeedback false
+[20:10:14] [Server thread/INFO]: [Thiagojuegosn: Gamerule sendCommandFeedback is now set to: false]
+[20:10:43] [Server thread/INFO]: Thiagojuegosn issued server command: /spawnpoint Thiagojuegosn
+[20:10:43] [Server thread/INFO]: [Thiagojuegosn: Set spawn point to 219, 64, -104 [0.0] in minecraft:overworld for Thiagojuegosn]
+[20:11:20] [Server thread/INFO]: Thiagojuegosn issued server command: /summon minecraft:warden
+[20:11:20] [Server thread/INFO]: [Thiagojuegosn: Summoned new Warden]
+[20:11:46] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode creative
+[20:11:46] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Creative Mode]
+[20:12:00] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:12:00] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:12:39] [Server thread/INFO]: Thiagojuegosn was slain by Warden
+[20:12:44] [Server thread/INFO]: Thiagojuegosn issued server command: /kill @n
+[20:12:44] [Server thread/INFO]: Thiagojuegosn was killed
+[20:12:44] [Server thread/INFO]: [Thiagojuegosn: Killed Thiagojuegosn]
+[20:12:47] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode spectator
+[20:12:47] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Spectator Mode]
+[20:12:48] [Server thread/INFO]: Thiagojuegosn issued server command: /kill @n
+[20:12:48] [Server thread/INFO]: Thiagojuegosn was killed
+[20:12:48] [Server thread/INFO]: [Thiagojuegosn: Killed Thiagojuegosn]
+[20:12:54] [Server thread/INFO]: Thiagojuegosn issued server command: /kill @n
+[20:12:54] [Server thread/INFO]: [Thiagojuegosn: Killed Warden]
+[20:12:57] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode creative
+[20:12:57] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Creative Mode]
+[20:13:00] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:13:00] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:13:10] [Server thread/INFO]: Thiagojuegosn issued server command: /kill Thiagojuegosn
+[20:13:10] [Server thread/INFO]: Thiagojuegosn was killed
+[20:13:10] [Server thread/INFO]: [Thiagojuegosn: Killed Thiagojuegosn]
+[20:14:20] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode creative
+[20:14:20] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Creative Mode]
+[20:14:24] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:14:24] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:15:20] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode creative
+[20:15:20] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Creative Mode]
+[20:15:25] [Server thread/INFO]: Thiagojuegosn issued server command: /gamemode survival
+[20:15:25] [Server thread/INFO]: [Thiagojuegosn: Set own game mode to Survival Mode]
+[20:15:35] [Server thread/INFO]: Thiagojuegosn lost connection: Disconnected
+[20:15:35] [Server thread/INFO]: Thiagojuegosn left the game
+[20:15:56] [User Authenticator #2/INFO]: UUID of player Thiagojuegosn is 01c68f46-ef12-30ff-ab74-a360240819b5
+[20:15:57] [Server thread/INFO]: Thiagojuegosn joined the game
+[20:15:57] [Server thread/INFO]: Thiagojuegosn[/172.29.32.46:52140] logged in with entity id 4630 at ([world]278.72997566457695, 45.0, -79.69999998807907)
